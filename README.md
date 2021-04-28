@@ -1,5 +1,5 @@
 # hueadm-docker
-Simple docker image to run [`bahamas10/hueadm`](https://github.com/bahamas10/hueadm) inside
+Simple docker image [rthibierge/hueadm](https://hub.docker.com/r/rthibierge/hueadm) to run [`bahamas10/hueadm`](https://github.com/bahamas10/hueadm) inside
 a container.
 
 
